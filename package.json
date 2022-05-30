@@ -9,6 +9,7 @@
   "author": "",
   "license": "",
   "dependencies": {
-    "live-server": "^1.2.1"
+    "live-server": "^1.2.1",
+    "source-map-url": "^0.4.1"
   }
 }
